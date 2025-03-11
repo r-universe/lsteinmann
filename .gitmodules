@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "clayringsmiletus"]
+	path = clayringsmiletus
+	url = https://github.com/lsteinmann/clayringsmiletus
 [submodule "datplot"]
 	path = datplot
 	url = https://github.com/lsteinmann/datplot
